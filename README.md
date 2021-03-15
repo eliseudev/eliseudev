@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**eliseudev/eliseudev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Eliseu Oliveira 👋
 
-Here are some ideas to get you started:
+### Tecnologias Usadas:
+- [X] FrontEnd
+- [X] BackEnd
+- [X] Mobile
+- [X] DBA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Formação
+1. Analise em desenvolvimento de Sistemas (Cursando)
+2. Bootcamp IGTI
+3. Cursos Udemy
+4. GoStack Bootcamp
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eliseuTarGz&show_icons=true)
+
