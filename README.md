@@ -10,6 +10,9 @@
 </p>
 
 <p align="center">
+  <a href="https://www.instagram.com/oliveiraeliseu.cs/" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Eliseu Oliveira" height="35" width="35" />
+  </a>
   <a href="https://twitter.com/Eliseu_cshtml" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Eliseu Oliveira" height="35" width="35" />
   </a>
