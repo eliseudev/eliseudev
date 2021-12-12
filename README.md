@@ -17,6 +17,7 @@
   <img align="center" alt="Eliseu-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Eliseu-DotNet" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="Eliseu-Angula" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+ <img align="right" alt="DotNet-pic" height="150" style="border-radius:50px;" src="https://dotnet.microsoft.com/static/images/illustrations/free-code-editor-tools-bot-desk.svg?v=WWIDocc21QEOeLjT9jofZosRF7KhqeGcGtaQr2ZB7TE">
 </div>
   
   ##
